@@ -45,7 +45,9 @@
   letter-spacing: 3px;
   text-align: center;
   text-transform: uppercase;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .boxed-btn:hover {
   background: #ff2020;
@@ -322,10 +324,14 @@ input:focus::-moz-placeholder {
   border-radius: 0px;
   display: inline-block;
   line-height: 0;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   margin-bottom: 0;
   margin: 10px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   transition: color 0.4s linear;
   position: relative;
   z-index: 1;
@@ -379,7 +385,9 @@ input:focus::-moz-placeholder {
   background: #000;
   box-shadow: 0px 20px 50px 0px rgba(22, 22, 22, 0.2);
   transform: translateY(0px);
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   display: inline-block;
   font-size: 18px;
   font-weight: 400;
@@ -404,7 +412,9 @@ black-btn:hover {
   margin: 10px;
   text-transform: capitalize;
   color: #ff2020;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   display: inline-block;
   font-size: 14px;
   font-weight: 500;
@@ -448,7 +458,9 @@ black-btn:hover {
   height: 55px;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   transition: color 0.4s linear;
   position: relative;
   overflow: hidden;
@@ -2443,7 +2455,9 @@ input:focus {
 .header-area .main-header .menu-wrapper .header-right span {
   color: #000000;
   font-size: 16px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   padding: 31px 19px;
 }
 .header-area .main-header .menu-wrapper .header-right span:hover {
@@ -2543,7 +2557,9 @@ input:focus {
   font-size: 28px;
   line-height: 28px;
   top: 30px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
@@ -2718,7 +2734,9 @@ input:focus {
   height: 60px;
   width: 60px;
   border-radius: 50%;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   background: #ff2020;
   -webkit-transition: 0.4s;
   -o-transition: 0.4s;
@@ -2886,7 +2904,9 @@ input:focus {
   background: #f81f1f;
   padding: 20px 0;
   display: block;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .popular-items .single-popular-items .popular-img .favorit-items {
   position: absolute;
@@ -2903,7 +2923,9 @@ input:focus {
 .popular-items .single-popular-items .popular-img .favorit-items span {
   color: #333333;
   font-size: 30px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .popular-items .single-popular-items .popular-caption h3 a {
   color: #444444;
@@ -3622,7 +3644,9 @@ input:focus {
   position: absolute;
   right: 0;
   border: 0;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   top: 0;
   color: #fff;
   border-radius: 30px;
@@ -4098,7 +4122,9 @@ input:focus {
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 15px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .causes_item .causes_text p {
   font-size: 14px;
@@ -4180,7 +4206,9 @@ input:focus {
 .categories_post {
   position: relative;
   text-align: center;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .categories_post img {
   max-width: 100%;
@@ -4362,7 +4390,9 @@ input:focus {
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
   border-left: 0;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .blog_right_sidebar .search_widget .input-group button i {
   color: #fff;
@@ -4939,7 +4969,9 @@ input:focus {
   padding: 0px;
   color: #fff;
   opacity: 1;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .modal-message .modal-dialog .modal-content .modal-header h2 {
   display: block;
@@ -5050,7 +5082,9 @@ input:focus {
   border: solid 1px #e2e2e2;
   box-sizing: border-box;
   clear: both;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   display: block;
   float: left;
   font-family: "Roboto", sans-serif;
@@ -5145,7 +5179,9 @@ input:focus {
 }
 #test-form button.mfp-close {
   overflow: visible;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   background: transparent;
   border: 0;
   -webkit-appearance: none;
@@ -5265,7 +5301,9 @@ del {
   text-align: center;
   text-decoration: none;
   font-weight: 500;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -5697,7 +5735,10 @@ del {
   width: 100%;
   height: 100%;
   opacity: 0;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
+  :pointer ;
 }
 .default-switch input + label {
   position: absolute;
@@ -5712,7 +5753,9 @@ del {
   -o-transition: all 0.2s;
   transition: all 0.2s;
   box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.2);
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .default-switch input:checked + label {
   left: 19px;
@@ -5723,7 +5766,9 @@ del {
   border-radius: 8.5px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .primary-switch input {
   position: absolute;
@@ -5755,7 +5800,9 @@ del {
   height: 100%;
   background: transparent;
   border-radius: 8.5px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -5775,7 +5822,9 @@ del {
   -o-transition: all 0.2s;
   transition: all 0.2s;
   box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.2);
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .primary-switch input:checked + label:after {
   left: 19px;
@@ -5789,7 +5838,9 @@ del {
   border-radius: 8.5px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .confirm-switch input {
   position: absolute;
@@ -5825,7 +5876,9 @@ del {
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
   transition: all 0.2s;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .confirm-switch input + label:after {
   content: "";
@@ -5841,7 +5894,9 @@ del {
   -o-transition: all 0.2s;
   transition: all 0.2s;
   box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.2);
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .confirm-switch input:checked + label:after {
   left: 19px;
@@ -5855,7 +5910,9 @@ del {
   border-radius: 3px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .primary-checkbox input {
   position: absolute;
@@ -5876,7 +5933,9 @@ del {
   width: 100%;
   height: 100%;
   border-radius: 3px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   border: 1px solid #f1f1f1;
 }
 .primary-checkbox input:checked + label {
@@ -5890,7 +5949,9 @@ del {
   border-radius: 3px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .confirm-checkbox input {
   position: absolute;
@@ -5911,7 +5972,9 @@ del {
   width: 100%;
   height: 100%;
   border-radius: 3px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   border: 1px solid #f1f1f1;
 }
 .confirm-checkbox input:checked + label {
@@ -5925,7 +5988,9 @@ del {
   border-radius: 3px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .disabled-checkbox input {
   position: absolute;
@@ -5946,7 +6011,9 @@ del {
   width: 100%;
   height: 100%;
   border-radius: 3px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   border: 1px solid #f1f1f1;
 }
 .disabled-checkbox input:disabled {
@@ -5964,7 +6031,9 @@ del {
   border-radius: 8px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .primary-radio input {
   position: absolute;
@@ -5985,7 +6054,9 @@ del {
   width: 100%;
   height: 100%;
   border-radius: 8px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   border: 1px solid #f1f1f1;
 }
 .primary-radio input:checked + label {
@@ -5999,7 +6070,9 @@ del {
   border-radius: 8px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .confirm-radio input {
   position: absolute;
@@ -6020,7 +6093,9 @@ del {
   width: 100%;
   height: 100%;
   border-radius: 8px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   border: 1px solid #f1f1f1;
 }
 .confirm-radio input:checked + label {
@@ -6034,7 +6109,9 @@ del {
   border-radius: 8px;
   background: #f9f9ff;
   position: relative;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 .disabled-radio input {
   position: absolute;
@@ -6055,7 +6132,9 @@ del {
   width: 100%;
   height: 100%;
   border-radius: 8px;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   border: 1px solid #f1f1f1;
 }
 .disabled-radio input:disabled {
@@ -6189,7 +6268,9 @@ del {
   box-shadow: none !important;
   text-align: center;
   border: 1px solid #fdcb9e;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -6294,7 +6375,9 @@ del {
   border: 1px solid #fdcb9e;
   text-transform: uppercase;
   background-color: #ff2020;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -8720,7 +8803,9 @@ input:focus {
   padding: 0px 25px 21px 25px;
   height: 14px;
   z-index: 9;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
   -webkit-transition: all 0.25s linear;
   font-family: "Playfair Display", serif;
   font-weight: 500;
@@ -9021,7 +9106,9 @@ input:focus {
   font-family: "Poppins", sans-serif;
   margin-left: 35px;
   display: inline-block;
-  cursor: pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🚀</text></svg>")
+      16 0,
+    auto;
 }
 @media (max-width: 991px) {
   .arrival_tittle ul li,
